@@ -11,7 +11,7 @@ This is repo for HYS Hackathon
 
 ## How to install
 
-First, clone repo to your personal computer (this project can`t be deployed due to api restrctions) :
+First, clone repo to your personal computer:
 
 ```bash
 git clone -link

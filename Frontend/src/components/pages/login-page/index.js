@@ -3,8 +3,7 @@ import {Box, FormControl, FormHelperText, Input, InputLabel} from "@mui/material
 export default function LoginPage() {
     return (
         <Box sx={{
-            width: '100%', height: '100vh', backgroundColor: 'deeppink',
-            display: 'flex', alignItems: 'center', justifyContent: 'center'
+            width: '100%', height: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center'
         }}>
             <FormControl>
                 <InputLabel htmlFor="my-input">Email address</InputLabel>

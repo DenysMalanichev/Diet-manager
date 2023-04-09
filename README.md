@@ -39,7 +39,7 @@ yarn dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-(make sure that localhost names are identical in your servers and projeckt files)
+(make sure that localhost names are identical in your servers and project files)
 ## Project logic and description
 
 Project consists of two pages, all courses page and course page.

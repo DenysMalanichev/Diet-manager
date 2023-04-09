@@ -42,7 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 (make sure that localhost names are identical in your servers and project files)
 ## Project logic and description
 
-Project consists of two pages, all courses page and course page.
+Project consists of two pages, all meals page and main page.
 
 **Main page:**
 Contains main meal and option to search meals by calories
